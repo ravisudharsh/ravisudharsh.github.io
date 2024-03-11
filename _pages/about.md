@@ -1,26 +1,27 @@
 ---
-layout: about
-title: about
+layout: about-custom
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Bioinformatician | Systems Biologist | Metabolic Network Analyst 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: ProfSquare.jpeg
+  image_circular: true # crops the image to make it circular
+  address: >
+    <p>Social Genomics<br>
+       Jacobs Center for Productive Youth Development<br>
+       UZH Zürich, Switzerland</p>
+    
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+## About me
+I am a Post-doctoral researcher in [Social Genomics](https://www.jacobscenter.uzh.ch/en/research/social_genomics.html) at the [Jacobs Center for Productive Youth Development, UZH Zürich](https://www.jacobscenter.uzh.ch/en.html). Prior to my current position, I obtained my doctoral degree from ETH, Zürich in Chemical and Bioengineering with a focus on Systems Biology. I had the opportunity to experience the University at Buffalo, New York as a visiting researcher when our lab, [CABSEL](https://www.cabselab.com) moved in 2018. My pre-doctoral academic career includes a Masters degree at ETH, Zürich and research stints at Harvard - MIT Health Sciences and Technology affliated laboratories exploring mechanisms of chemotherapy tolerance in breast cancer cells. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses on the investigation of metabolic networks and its application in understanding the biology of human aging and age-related diseases. Through the development of algorithms designed to predict metabolic perturbations with the incorporation of differential transcriptomic data, I strive to shed shed light on the biological roadmap of events in the aging and neurodegenerative processes. My interests encompass integrative omics analysis, particularly in human diseases.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Currently**, I investigate the impact of socio-economic gradients on transcriptional and methylation patterns in humans, and consequently its implications in phenotypical modulations.

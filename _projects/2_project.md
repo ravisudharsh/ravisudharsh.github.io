@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: ΔFBA
+description: A workflow for the integration of differential transcriptomics data in genome scale metabolic models
 img: assets/img/3.jpg
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-1-20 08:00:00+0100
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Check out my latest article in Scientific Reports!

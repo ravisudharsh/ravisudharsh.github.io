@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ravisudharsh
+  - socialgnome
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - CABSEL/DeltaFBA
+  - socialgnome/Immune-SES
+  - socialgnome/PNAS-SES
