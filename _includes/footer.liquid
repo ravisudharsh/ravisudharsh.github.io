@@ -24,7 +24,7 @@
       {{ site.last_name }}.
       <br>
       {% if site.impressum_path %}
-        <a href="{{ site.url }}{{ site.baseurl }}{{ site.impressum_path }}">Impressum</a>.
+        <a href="{{ '/contact/' | relative_url }}">Impressum</a>.
       {% endif %}
       {% if site.last_updated %}
         Last updated: {{ 'now' | date: '%B %d, %Y' }}.
