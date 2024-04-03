@@ -12,7 +12,12 @@ related_publications: false
 Aging is a complex and multifactorial process that causes progressive functional decline and decreased ability of an organism to respond to stress. Aging affects almost all organisms on earth, albeit at varying rates. Even within an organism, the rate of functional decline could also differ among tissues. The aging process is characterized by a gradual loss of function that results in increased morbidity and ultimately culminates in death. Although aging is typically not considered a disease, it is a major risk factor is a plethora of human diseases with widely varying pathologies. The rapid greying of the world population carries significant socioeconomic impacts, especially in developed countries. Without a concomitant or faster increase in the length of healthy life, an extension of human lifespan would translate to higher health care spending. A better understanding of the biology of ageing has the potential to delay the onset of age-related diseases, extend healthy life expectancy, and thus reduce the socioeconomic burden of a greying population. 
 
 <hr style="height:5px; visibility:hidden;" />
-
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/mw.gif" title="Moving Wimdow Analysis" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<hr style="height:5px; visibility:hidden;" />
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/aging.png" title="Aging" class="img-fluid rounded z-depth-1" %}

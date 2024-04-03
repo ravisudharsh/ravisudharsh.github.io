@@ -3,7 +3,7 @@ layout: redirect
 permalink: /vitae/
 title: Vitae
 description: My current resume
-rurl: /assets/pdf/example_pdf.pdf
+rurl: /assets/pdf/CV_SRavi.pdf
 nav: true
 nav_order: 4
 ---

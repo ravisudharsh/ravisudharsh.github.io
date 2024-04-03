@@ -4,7 +4,7 @@ permalink: /theses/
 title: Theses
 description: 
 nav: false
-nav_order: 13
+nav_order: 12
 ---
 
 <!-- _pages/theses.md -->

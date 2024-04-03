@@ -4,7 +4,7 @@ permalink: /supervision/
 title: Supervision
 description: 
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 <hr style="height:5px; visibility:hidden;" />
 <h2>Courses</h2>
