@@ -20,4 +20,4 @@ My research interests include integrative omics and multiomics analysis. Despite
 </div>
 <hr style="height:5px; visibility:hidden;" />
 
-In one such effort{% cite Parmentier2022 %}, we collaborated with [Prof. Andràs Paldi](https://www.ephe.psl.eu/andras-paldi) at [École Pratique des Hautes Études, Paris, France](https://www.ephe.psl.eu/) to integrate single-cell RNA sequencing data with ATAC-seq in understanding the activate of gene expression as an important first step before human hematopoietic cells commit to differentiation. 
+In one such effort {% cite Parmentier2022 %}, we collaborated with [Prof. Andràs Paldi](https://www.ephe.psl.eu/andras-paldi) at [École Pratique des Hautes Études, Paris, France](https://www.ephe.psl.eu/) to integrate single-cell RNA sequencing data with ATAC-seq in understanding the activate of gene expression as an important first step before human hematopoietic cells commit to differentiation. 
