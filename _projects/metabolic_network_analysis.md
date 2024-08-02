@@ -25,7 +25,7 @@ li {
 }
 </style>
 <ul>
-<li> Metabolic stress is a primary pathogenic event in transgenic *Caenorhabditis elegans* expressing pan-neuronal human amyloid beta. </li>
+<li> Metabolic stress is a primary pathogenic event in transgenic <em>Caenorhabditis elegans</em> expressing pan-neuronal human amyloid beta. </li>
 </ul>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
