@@ -33,7 +33,7 @@ li {
     </div>
 </div>
 
-In this work{% cite Teo2019 %} in collaboration with [Prof. Jan Gruber's lab in Yale-NUS, Singapore](https://www.yale-nus.edu.sg/faculty/jan-gruber/), we showcase the metabolic changes associated with this amyloid-beta induced mitochondrial dysfunction. Our metabolic network analysis with the integration of metabolomics, transcriptomics and experimental data reveal alterations in the Tricarboxylic acid (TCA) cycle metabolism following low-level expression of amyloid-beta, a model to study Alzheimer's disease.  
+In this work {% cite Teo2019 %} in collaboration with [Prof. Jan Gruber's lab in Yale-NUS, Singapore](https://www.yale-nus.edu.sg/faculty/jan-gruber/), we showcase the metabolic changes associated with this amyloid-beta induced mitochondrial dysfunction. Our metabolic network analysis with the integration of metabolomics, transcriptomics and experimental data reveal alterations in the Tricarboxylic acid (TCA) cycle metabolism following low-level expression of amyloid-beta, a model to study Alzheimer's disease.  
 
 <hr style="height:5px; visibility:hidden;" />
 
@@ -46,4 +46,4 @@ In this work{% cite Teo2019 %} in collaboration with [Prof. Jan Gruber's lab in 
     </div>
 </div>
 
-Here{% cite Odunsi2022 %}, we leveraged on experimental data on human clinical trials of chemotherapy in ovarian cancer patients collected by [Prof. Kunle Odunsi](https://www.cancerresearch.org/scientific-advisory-council/kunle-odunsi) lab at [Roswell Park Comprehensive Cancer Center, Buffalo, USA](https://www.roswellpark.org/). Through our integrative metabolic network analysis, we assisted in uncovering the underlying mechanisms associated with failure of indoleamine 2,3-dioxygenase 1 (IDO1) blockade in clinical trials. 
+Here {% cite Odunsi2022 %}, we leveraged on experimental data on human clinical trials of chemotherapy in ovarian cancer patients collected by [Prof. Kunle Odunsi](https://www.cancerresearch.org/scientific-advisory-council/kunle-odunsi) lab at [Roswell Park Comprehensive Cancer Center, Buffalo, USA](https://www.roswellpark.org/). Through our integrative metabolic network analysis, we assisted in uncovering the underlying mechanisms associated with failure of indoleamine 2,3-dioxygenase 1 (IDO1) blockade in clinical trials. 
