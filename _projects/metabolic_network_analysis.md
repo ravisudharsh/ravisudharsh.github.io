@@ -10,7 +10,7 @@ related_publications: true
 
 <hr style="height:5px; visibility:hidden;" />
 
-A fundamental aim of life science is to understand the functioning of an organism and draw system-level connections between its genotype and behavior. Among the most significant types of interaction networks, cellular metabolism is a well-established descriptor of the phenotype of an organism. Inspecting and analyzing the metabolic network in its entirety is crucial in attaining a holistic understanding of the underlying biological mechanism. I am interested in delevoping algorithms designed to highlight metabolic alterations in neurodegenarative diseases and cancers.
+A fundamental aim of life science is to understand the functioning of an organism and draw system-level connections between its genotype and behavior. Among the most significant types of interaction networks, cellular metabolism is a well-established descriptor of the phenotype of an organism. Inspecting and analyzing the metabolic network in its entirety is crucial in attaining a holistic understanding of the underlying biological mechanism. I am interested in developing algorithms designed to highlight metabolic alterations in neurodegenerative diseases and cancers.
 
 <hr style="height:5px; visibility:hidden;" />
 
