@@ -9,12 +9,9 @@ social: true
 
 
 **Sudharshan Ravi, Ph.D.** <br />
-Social Genomics  <br />
-Jacobs Center for Productive Youth Development <br />
-UZH Zürich <br />
-AND 4.14 <br />
-Andreasstrasse 15 <br />
-8050 Zürich <br />
+Bioinformatics Specialist  <br />
+Stealth Startup <br />
+Zürich <br />
 Switzerland <br />
 [+41 78 741 32 38](tel:+41787413238)<br />
-[sudharshan.ravi@jacobscenter.uzh.ch](mailto:sudharshan.ravi@jacobscenter.uzh.ch) <br />
+[ravi.sudharsh@gmail.com](mailto:ravi.sudharsh@gmail.com) <br />
