@@ -20,8 +20,8 @@ li {
 </style>
 <ul>
 <li> <a href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?semkez=2017S&ansicht=LEHRVERANSTALTUNGEN&lerneinheitId=111629&lang=en">Bioprocess Modeling</a> at ETH Zürich – 2017.</li>
-<li> <a href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=109549&semkez=2016W&ansicht=LEHRVERANSTALTUNGEN&lang=en">Statistical and Numerical Methods for Chemical Engineers</a> at ETH Zürich – 2017</li>
-<li> <a href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=126165&semkez=2018W&ansicht=LEHRVERANSTALTUNGEN&lang=en">Process Simulation and Flowsheeting</a> at ETH Zürich – 2018</li>
+<li> <a href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=109549&semkez=2016W&ansicht=LEHRVERANSTALTUNGEN&lang=en">Statistical and Numerical Methods for Chemical Engineers</a> at ETH Zürich – 2017.</li>
+<li> <a href="https://www.vorlesungen.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lerneinheitId=126165&semkez=2018W&ansicht=LEHRVERANSTALTUNGEN&lang=en">Process Simulation and Flowsheeting</a> at ETH Zürich – 2018.</li>
 </ul>
 <hr style="height:5px; visibility:hidden;" />
 <h2>Students</h2>
