@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Toward Multiomics
-description: Projects with integrative multomics analysis
+description: Projects with integrative multiomics analysis
 img: assets/img/multi.jpg
 importance: 5
 category: Projects

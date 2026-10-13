@@ -15,7 +15,7 @@ related_publications: true
 </div>
 <hr style="height:5px; visibility:hidden;" />
 
-The Social Genomics research team at the Jacobs Center for Productive Youth Development seeks to investigate the impact of social forces on the genome and subsequently overall health. Surprisingly, the human genome is highly responsive to changes in our societal status, consequently culminating in elevated risk of chronic diseases. We leverage on the data from the National Longitudinal Study of Adolescent to Adult Health (Add Health), a nationally representative sample of over 4000 adults in the United States. My research at the Social Genomics team specifically focuses on: 
+The Social Genomics research team at the Jacobs Center for Productive Youth Development seeks to investigate the impact of social forces on the genome and subsequently overall health. Surprisingly, the human genome is highly responsive to changes in our societal status, consequently culminating in elevated risk of chronic diseases. We leveraged the data from the National Longitudinal Study of Adolescent to Adult Health (Add Health), a nationally representative sample of over 4000 adults in the United States. My research at the Social Genomics team specifically focused on: 
 
 <hr style="height:5px; visibility:hidden;" />
 <style>
@@ -32,7 +32,7 @@ li {
 <li> Investigating the impact of socioeconomic inequalities in early adulthood on the transcriptional landscape. </li>
 </ul>
 
-Socioeconomic inequalities predict many chronic diseases of aging {% cite Shanahan2022 %}. Drawing on a bioinformatically - informed network approach, I explore the ramifications of inequalities on molecular underpinning of chronic diseases, aging and immune dysregulation. Furthermore, I examine the role of social and behavioural risk factors in mediating these associations. In our latest work, we showcase a network of differentially expressed genes, transcription factors and protein neighbors responsible for widespread SES-related immune dysregulation {% cite Ravi2024 %}.
+Socioeconomic inequalities predict many chronic diseases of aging {% cite Shanahan2022 %}. Drawing on a bioinformatically-informed network approach, I explored the ramifications of inequalities on molecular underpinning of chronic diseases, aging and immune dysregulation. Furthermore, I examined the role of social and behavioural risk factors in mediating these associations. In our latest work, we showcase a network of differentially expressed genes, transcription factors and protein neighbors responsible for widespread SES-related immune dysregulation {% cite Ravi2024 %}.
 
 <hr style="height:5px; visibility:hidden;" />
 
