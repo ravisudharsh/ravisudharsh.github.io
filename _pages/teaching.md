@@ -28,7 +28,7 @@ li {
 <h2>Students</h2>
 <ul>
 <li> Jérôme Smyrliadis, B.Sc. – Research Project, 2026 – Department of Fundamental Microbiology, University of Lausanne (UNIL). </li>
-<li> Jens Heumann, Ph.D. – Doctoral Research, 2022 – 2023 – Jacobs Center for Productive Youth Development, UZH Zürich. </li>
+<li> Jens Heumann, Ph.D. – Doctoral Research, 2022-2023 – Jacobs Center for Productive Youth Development, UZH Zürich. </li>
 <li> Xin Qi, M.Sc. – Research Project, 2019 – Department of Chemical and Biological Engineering, University at Buffalo. </li>
 <li> <a href="https://www.linkedin.com/in/harini-narayanan-a28228109/">Harini Narayanan, Ph.D.</a> – Research Project, 2017 – Institute of Chemical and Bioengineering, ETH Zürich. </li>
 </ul>
